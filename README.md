@@ -1,6 +1,6 @@
-# Module 10 - IS601 Project
+# Module 11 - IS601 Project
 
-This repository contains the solution for Module 10 of the IS601 course. It includes a Python application with its dependencies managed via `requirements.txt`, local tests with `pytest`, and a Docker Compose setup for containerization.
+This repository contains the solution for Module 11 of the IS601 course. It includes a Python application with its dependencies managed via `requirements.txt`, local tests with `pytest`, and a Docker Compose setup for containerization.
 
 ## Table of Contents
 
